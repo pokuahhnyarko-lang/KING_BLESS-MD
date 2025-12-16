@@ -2,7 +2,7 @@
   
 ______
 
-[![Shaban](https://raw.githubusercontent.com/KINGSLEYNYARKO/KING-BLESS-MD/main/Kingsley/.svg)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
+[![Shaban](https://raw.githubusercontent.com/KINGSLEYNYARKO/KING-BLESS-MD.svg)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
 ___ 
 
 <p align="center">
@@ -21,7 +21,7 @@ ___
 ---------
 
 <p align="center">
-<a href="https://github.com/KINGSLEYNYARKO/KING-BLESS-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=JavaScript&style=square&color=darkpink"></a> &nbsp;
+<a href="https://github.com/pokuahhnyarko-lang/KING_BLESS-MD/new/main"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=JavaScript&style=square&color=darkpink"></a> &nbsp;
   <img src="https://komarev.com/ghpvc/?username=SHABAN-MD&label=VIEWS&style=square&color=blue" />
 </p>
 
@@ -29,20 +29,20 @@ ___
 -------------
 
 <p align="center">
-<img src="Shaban/feature-bot.svg" alt="Feature Bot" width="900"/>
+<img src="kingsley/feature-bot.svg" alt="Feature Bot" width="900"/>
   
 <p align="center">
-<img src="Shaban/license.svg" alt="License" width="200"/>
+<img src="Kingsley/license.svg" alt="License" width="200"/>
 
 --------------
 
 <p align="center">
-<img src="Shaban/maintenance.svg" alt="Maintenance" width="120"/>
+<img src="kingsley/maintenance.svg" alt="Maintenance" width="120"/>
 
 
  <p align="center">
-  <a href="https://github.com/MRSHABAN45/KINGSLEY-MD/fork" target="_blank">
-    <img src="Shaban/forkstar-holo.svg" width="180" alt="Fork Star Bot Repo"/>
+  <a href="https://github.com/pokuahhnyarko-lang/KING_BLESS-MD/new/main/fork" target="_blank">
+    <img src="Kingsley/forkstar-holo.svg" width="180" alt="Fork Star Bot Repo"/>
   </a>
 </p>
 
@@ -56,13 +56,13 @@ ___
 -------------
 
 <p align="center">
-  <img src="./Shaban/deployment.svg" width="600" alt="KING_BLESS XMD— News Ticker Typing">
+  <img src="./Kingsley/deployment.svg" width="600" alt="KING_BLESS XMD— News Ticker Typing">
 </p>
 
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/MRSHABAN45/SHABAN-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
+      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/pokuahhnyarko-lang/KING_BLESS-MD/new/main" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
       <td><a href="https://Kingsley.lovestoblog.com/" target="_blank"><img src="https://img.shields.io/badge/official-site-A52A2A?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@ ___
 
 -------------
 
-**_✠ FREE DEPLOYMENT OF SHABAN MD GITHUB WORKFLOW CODE NEW ADD ERROR FIXED ✠_**
+**_✠ FREE DEPLOYMENT OF KING_BLESS MD GITHUB WORKFLOW CODE NEW ADD ERROR FIXED ✠_**
 
 ```
 
@@ -141,7 +141,7 @@ jobs:
 
 > 🔔 Stay Connected For Updates Feature Drops And Tutorials!
 
-<a href="https://youtube.com/@mrshaban282?si=ZVANSbKM0yajAbl_" target="_blank">
+<a href="https://youtube.com/@Kingsleynyarko?si=ZVANSbKM0yajAbl_" target="_blank">
   <img src="Shaban/youtube.svg" alt="YouTube" width="250"/>
 </a>
 
@@ -162,8 +162,8 @@ jobs:
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
-  <a href="https://github.com/MRSHABAN45">
-    <img src="https://github-readme-stats.vercel.app/api?username=MRSHABAN45&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
+  <a href="https://github.com/pokuahhnyarko-lang">
+    <img src="https://github-readme-stats.vercel.app/api?username=pokuahhnyarko-lan&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
 <!-- Glowing Header -->
@@ -174,11 +174,11 @@ jobs:
 <!-- New Animated Contributors -->
 <div style="margin-top:20px">
 
-[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/MRSHABAN45/SHABAN-MD/graphs/contributors)
+[![Contributors](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=THANKS+TO+ALL+CONTRIBUTORS+%F0%9F%99%8F;SPECIAL+THANKS+TO+OUR+STAR+SUPPORTERS+%E2%AD%90)](https://github.com/pokuahhnyarko-lang/KING_BLESS-MD/new/main/graphs/contributors)
 
 </div>
 
- <p align="center"> <a href="https://github.com/MRSHABAN45/SHABAN-MD/stargazers"> <img src="http://reporoster.com/stars/dark/MRSHABAN45/SHABAN-MD" alt="Stargazers Repo Roster For @MRSHABAN45/SHABAN-MD"> </a> </p> <p align="center"> <a href="https://github.com/MRSHABAN45/SHABAN-MD/network/members"> <img src="http://reporoster.com/forks/dark/MRSHABAN45/SHABAN-MD" alt="Forkers Repo Roster For @MRSHABAN45/KING_BLESS-MD"> </a> </p> 
+ <p align="center"> <a href="https://github.com/MRSHABAN45/SHABAN-MD/stargazers"> <img src="http://reporoster.com/stars/dark/MRSHABAN45/SHABAN-MD" alt="Stargazers Repo Roster For @KINGSLEYNYARKO/pokuahhnyarko-lan"> </a> </p> <p align="center"> <a href="https://github.com/pokuahhnyarko-lang/KING_BLESS-MD/new/main/network/members"> <img src="http://reporoster.com/forks/dark/MRSHABAN45/SHABAN-MD" alt="Forkers Repo Roster For @MRSHABAN45/KING_BLESS-MD"> </a> </p> 
 
 
 <p align="center">
