@@ -1,0 +1,21 @@
+{
+  "name": "KING_BLESS",
+  "description": "Javascript WhatsApp bot made by 𝐌𝐑 KINGSLEY",
+  "keywords": ["KING_BLESS-XMD"],
+  "success_url": "/",
+  "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": " Only Put Your Session-ID Here",
+      "required": true,
+      "value": ""
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ],
+  "stack": "heroku-24"
+  }
+    
