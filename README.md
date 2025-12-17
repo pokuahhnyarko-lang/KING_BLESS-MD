@@ -6,14 +6,14 @@ ______
 ___ 
 
 <p align="center">
-  <a href="https://github.com/KING-BLESS" target="_blank">
+  <a href="https://github.com/pokuahhnyarko-lang/KING_BLESS-MD/edit/main" target="_blank">
     <img src="./Kingsley/dev-gold-mini.svg" width="300" alt="Developer — KINGSLEY NYARKO(Gold 3D)">
   </a>
 </p>
 
   
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029Vb6aq4cCHDygiEqJZl0S" target="_blank">
+  <a href="https://whatsapp.com/channel/0029Vb7M4IMD8SDymAeBP10c" target="_blank">
     <img src="./Kingsley Nyarko/channel-update.svg" width="350" alt="Bot Updating — WhatsApp Channel | Join Fast">
   </a>
 </p>
@@ -41,7 +41,7 @@ ___
 
 
  <p align="center">
-  <a href="https://github.com/pokuahhnyarko-lang/KING_BLESS-MD/new/main/fork" target="_blank">
+  <a href="https://github.com/pokuahhnyarko-lang/KING_BLESS-MD/fork" target="_blank">
     <img src="Kingsley/forkstar-holo.svg" width="180" alt="Fork Star Bot Repo"/>
   </a>
 </p>
