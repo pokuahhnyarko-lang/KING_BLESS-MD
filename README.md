@@ -2,7 +2,7 @@
   
 ______
 
-[![Shaban](https://raw.githubusercontent.com/KINGSLEYNYARKO/KING-BLESS-MD.svg)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
+[![KING_BLESS](https://raw.githubusercontent.com/KINGSLEYNYARKO/KING-BLESS-MD.svg)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
 ___ 
 
 <p align="center">
